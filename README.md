@@ -14,6 +14,8 @@ bare bones, Linux server into the secure and efficient web application host need
 **URL:** 	http://13.233.89.95.xip.io
 **Public IP Address:** 13.233.89.95
 **Accessible SSH port:** 2200
+**User:** grader
+**Password** gradea
 
 ## Steps to Configure Linux server
 #### 1. Create Development Environment Instance
