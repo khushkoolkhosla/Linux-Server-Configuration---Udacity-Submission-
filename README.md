@@ -11,7 +11,7 @@ how they are hosted, and interats with multiple systems. In this Project, we wil
 bare bones, Linux server into the secure and efficient web application host needed by Our Applications.
 
 #### Link to Project: 
-
+**URL:** 	http://13.233.89.95.xip.io
 **Public IP Address:** 13.233.89.95
 **Accessible SSH port:** 2200
 
